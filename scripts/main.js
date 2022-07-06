@@ -1,2 +1,2 @@
 const miTitulo = document.querySelector('h1');
-miTitulo.textContent='javier';
+miTitulo.textContent='Hola mundo';

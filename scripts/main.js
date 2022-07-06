@@ -1,2 +1,2 @@
 const miTitulo = document.querySelector('h1');
-miTitulo.textContent='123456';
+miTitulo.textContent='123.456';
